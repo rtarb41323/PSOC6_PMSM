@@ -5,3 +5,7 @@ The following hardware is used:
 
 The following software is used:
 - PSOC Creator version 4.4
+
+Specs:
+- 10kHz PWM switching frequency
+- 10kHz ADC sampling frequency
